@@ -8,9 +8,9 @@ _my name is **jeffrey MacGregor**_
 
 Acronym| long form
 --------|--------
-ANSI | American national standards 
-CAD  |  Computer-aided design 
-CNC  |  Computer numerically controlled
+ANS  |  http://Americannationalstandards.com 
+CAD  |  http:/Computer-aideddesign.com 
+CNC  |  http:/Computernumericallycontrolled.com
 :squirrel:
 :alien:
 :clap:
